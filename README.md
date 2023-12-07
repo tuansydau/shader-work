@@ -2,7 +2,7 @@
 > A collection of GLSL shaders that I've written since December 6th, 2023.
 
 ## What
-Shaders are programs that run on GPUs and render graphics either in real-time or with some preprocessing. All of my shaders so far are real-time renders. 
+Shaders are programs that run on GPUs and render graphics either in real-time or with some preprocessing. Shaders can create graphics by themselves, or work with existing objects to add effects like shadows/realistic lighting, etc. My focus is currently on Fragment shaders, which work as standalone graphics most of the time, but I aim to be able to write complex lighting and water graphics.
 
 ## Why 
 I have always wanted to do game development visuals but would likely get decimated in the industry. I'll self-study graphics development until I'm sure that I'll survive.
