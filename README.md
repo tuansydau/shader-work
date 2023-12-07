@@ -22,7 +22,7 @@ You can see each file's render in higher resolution and framerates than the demo
 Below are video demos of the shaders that I have worked on. They are lower-quality videos, and I highly recommend that you go and compile one of these in [ShaderToy](https://www.shadertoy.com/new) if you like it. It won't even take a minute!
 
 #### 1. Diamond Visualizer
-[diamondVisualizer.webm](https://github.com/tuansydau/shader-work/assets/26176104/4bed8ed5-1b38-4ffc-85b5-a385185be589)
+[diamond_visualizer.webm](https://github.com/tuansydau/shader-work/assets/26176104/4bed8ed5-1b38-4ffc-85b5-a385185be589)
 
 #### 2. Starfield
 [starfield.webm](https://github.com/tuansydau/shader-work/assets/26176104/6a06ff33-9692-45a7-926a-277709bf8455)
